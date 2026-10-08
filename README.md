@@ -1,8 +1,6 @@
-# A-Path-Finding-Visualizer
-A Path Finding Visualizer Project
-# 🧭 A* Path Finding Visualizer
+# 🧭 A-Path-Finding-Visualizer
 
-A visual implementation of the **A* Path Finding Algorithm** using Python and Pygame.
+A simple project that visualizes the **A* Path Finding Algorithm** using Python and Pygame.
 
 ## 📸 Project Preview
 
@@ -10,12 +8,11 @@ A visual implementation of the **A* Path Finding Algorithm** using Python and Py
 
 ## 🚀 Features
 
-- A* Path Finding Algorithm
+- Finds the shortest path
 - Interactive grid
-- Start and end node selection
-- Obstacle/wall creation
-- Visual path finding
-- Built using Python and Pygame
+- Create walls and obstacles
+- Select start and end points
+- Shows the path visually
 
 ## 🛠️ Technologies Used
 
